@@ -14,10 +14,12 @@ Welcome to the Snake Game! This is a classic snake game developed in Python usin
 ## Features
 
 - Classic snake game mechanics
+- Uses object oriented programming system
 - Food randomly appears on the screen
 - Snake grows longer as it eats food
 - Game over when the snake collides with itself or the wall
 - Score display
+- Highest Score is Saved and doesn't change when the file is reloaded
 
 ## Requirements
 
